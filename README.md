@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://blog.naver.com/wodms0045" target="_blank"><img src="https://img.shields.io/badge/bolg-#03C75A?style=flat&logo=naver&logoColor=FFFFFF"/></a>
+<a href="https://blog.naver.com/wodms0045" target="_blank"><img src="https://img.shields.io/badge/bolg-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+
+//Java
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
