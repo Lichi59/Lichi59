@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffaca3&height=300&section=header&text=Lichi%20GitHub&animation=twinkling&fontSize=90&fontColor=ffffff)
 <!--
 **Lichi59/Lichi59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
