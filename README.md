@@ -11,7 +11,8 @@
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={wodms0045})](https://solved.ac/{wodms0045})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wodms0045})](https://solved.ac/{wodms0045})
+
 
 <a href="https://blog.naver.com/wodms0045" target="_blank"><img src="https://img.shields.io/badge/bolg-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 
