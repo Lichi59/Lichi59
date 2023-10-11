@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffaca3&height=300&section=header&text=🎀Lichi%20GitHub&animation=twinkling&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffaca3&height=300&section=header&text=Lichi%20GitHub🎀&animation=twinkling&fontSize=90&fontColor=ffffff)
 # ✨Welcome to my Github!
 
+## I used this
+<!-- Language -->
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 [![Solved.ac
